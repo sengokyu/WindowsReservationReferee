@@ -1,2 +1,6 @@
-# Reservation Referee - Whistle next reservation is comming
+# Reservation Referee - Whistle next reservation is coming
+
+## LICENCE
+
+[MIT](https://opensource.org/license/mit/)
 
